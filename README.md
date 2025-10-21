@@ -15,3 +15,8 @@
 
 
 3. [RPG Metanoia](https://www.youtube.com/watch?v=bzIDObRbsQQ)
+
+
+   RPG Metanoia is a Filipino animated film set in a future where kids spend most of their time playing an online role-playing game called Metanoia. The story follows Nico, a young boy who feels ordinary in real life but becomes a brave hero inside the virtual world. When a mysterious virus starts spreading through the game and affecting players in the real world, Nico and his friends must team up to save both worlds. Through their journey, they discover the value of friendship, teamwork, and the importance of living life beyond the screen. The movie blends adventure, fantasy, and Filipino culture while reminding viewers to balance gaming with real-life connections.
+
+   <img width="1058" height="861" alt="image" src="https://github.com/user-attachments/assets/9f64fc79-9916-4efe-a76e-f19a938e0cf0" />
